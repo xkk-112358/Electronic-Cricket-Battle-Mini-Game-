@@ -9,3 +9,5 @@ You only need to run source code.py .
 ## How to package into an .exe file (如何打包成.exe文件)
 Run the following command in the CMD window : **pyinstaller --onefile --noconsole game.py**
 在cmd窗口运行: **pyinstaller --onefile --noconsole game.py**
+
+![game](game.png)
